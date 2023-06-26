@@ -1,0 +1,9 @@
+{
+    "vegetables":[
+        {
+            "id":2,
+            "productname":"banana",
+            "image":""
+        }
+    ]
+}
